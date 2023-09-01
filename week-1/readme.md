@@ -1,6 +1,6 @@
 # Rule Submit task
 ## Ada nama nim kelas
-``` LAPORAN(P=Pertemuan)_Kelas_Nama.***PDF*** ```
+``` LAPORAN(P=Pertemuan)_Kelas_Nama.*PDF ```
 
 ## font rapi 
 - times new/calibri
