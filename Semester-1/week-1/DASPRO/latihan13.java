@@ -1,13 +1,10 @@
 /*
  * Latihan13
  */
-public class latihan13{
+public class Latihan13 {
+
     public static void main(String[] args){
-        System.out.println("***** IDENTITAS DIRI *****");
-        System.out.println("Nama\t: Hidayat Widi Saputra");
-        System.out.println("Absen\t: 13");
-        System.out.println("Kelas\t: 1E");
-        System.out.println("Prodi\t: D-IV Teknik Informatika");
-        System.out.println("Jurusan\t: Teknologi Informasi");
+        System.out.print("Nama saya Hidayat Widi Saputra");
+        //System.out.print("\nsaya adalah mahasiswa baru jurusan teknik informasi-POLINEMA");
     }
 }
