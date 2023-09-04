@@ -1,9 +1,11 @@
 # Rule Submit task
 ## Ada nama nim kelas
-``` LAPORAN(P=Pertemuan)_Kelas_Nama.*PDF ```
+- ``` LAPORAN(P=Pertemuan)_Kelas_Nama.*PDF ```
+- pertanyaan dijawab
+- (?)Setiap Langkah percobaan, pertanyaan, ss
 
 ## font rapi 
-- times new/calibri
+- times new/calibri/arial
 - Spasi 1,5
 
 ## Code tidak boleh ss
@@ -13,6 +15,3 @@
 - Dikasih box
 - hasil running gpp discrebshot
 
-### (?)
-- pertanyaan dijawab
-- (?)Setiap Langkah percobaan, pertanyaan, ss
