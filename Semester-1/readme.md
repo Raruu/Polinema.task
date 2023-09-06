@@ -2,7 +2,7 @@
 ## Author pengumpulan
 NIM_KELAS_NAMA
 ~~~
-2341720157_Hidayat Widi Saputra_1E
+NIM_Hidayat Widi Saputra_1E
 ~~~
 ## Ada nama nim kelas
 - ~~~
