@@ -1,6 +1,13 @@
 # Rule Submit task
+## Author pengumpulan
+NIM_KELAS_NAMA
+~~~
+NIM_Hidayat Widi Saputra_1E
+~~~
 ## Ada nama nim kelas
-- ``` LAPORAN(P=Pertemuan)_Kelas_Nama.*PDF ```
+- ~~~
+  LAPORAN(P=Pertemuan)_Kelas_Nama.*PDF
+  ~~~
 - pertanyaan dijawab
 - (?)Setiap Langkah percobaan, pertanyaan, ss
 
