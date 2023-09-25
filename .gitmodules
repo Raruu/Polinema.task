@@ -1,0 +1,6 @@
+[submodule "Semester-1/week-5/PRAK_DASPRO"]
+	path = Semester-1/week-5/PRAK_DASPRO
+	url = https://github.com/Raruu/JobSheet5-Praktikum.git
+[submodule "Semester-1/week-2/PRAK_DASPRO/daspro-jobsheet2"]
+	path = Semester-1/week-2/PRAK_DASPRO/daspro-jobsheet2
+	url = https://github.com/Raruu/daspro-jobsheet2.git
