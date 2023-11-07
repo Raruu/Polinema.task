@@ -15,7 +15,8 @@ public class pertanyaan3 {
                 if (i == 0 || i == N - 1)
                     System.out.print(N);
                 else
-                    System.out.print(' ');
+                    for (int j2 = 0; j2 < Integer.toString(N).length(); j2++)
+                        System.out.print(' ');
                 System.out.print(' ');
             }
             System.out.print(N);
