@@ -59,8 +59,17 @@ public class TugasNo2_13 {
 
     public static void main(String[] args) {
         scanner = new Scanner(System.in);
-        String[] namaMaha = { "Sari", "Rina", "Yani", "Dwi", "Lusi" };
-        int[][] nilaiMaha = new int[namaMaha.length][7];
+        System.out.print("Masukkan jumlah Mahasiswa: ");
+        int jumMaha = scanner.nextInt();
+        System.out.print("Masukkan jumlah Minggu: ");
+        int jumMinggu = scanner.nextInt();
+        String[] namaMaha = new String[jumMaha];
+        scanner.nextLine();
+        for (int i = 0; i < namaMaha.length; i++) {
+            System.out.print("Masukkan nama Mahasiswa ke-" + (i + 1) + " :");
+            namaMaha[i] = scanner.nextLine();
+        }
+        int[][] nilaiMaha = new int[jumMaha][jumMinggu];
         nilaiMaha = inputData(namaMaha, nilaiMaha);
         printNilai(namaMaha, nilaiMaha);
         System.out.println(
