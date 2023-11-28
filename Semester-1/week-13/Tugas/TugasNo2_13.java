@@ -45,7 +45,7 @@ public class TugasNo2_13 {
 
     public static void printTertinggi(String[] name, int[][] arrData) {
         int highest = 0, index = 0;
-        for (int i = 1; i < arrData.length; i++) {
+        for (int i = 0; i < arrData.length; i++) {
             for (int j = 0; j < arrData[i].length; j++) {
                 if (highest < arrData[i][j]) {
                     highest = arrData[i][j];
