@@ -18,5 +18,6 @@ public class Percobaan3 {
         tahun = sc.nextInt();
         System.out.print("Jumlah saldo setelah " + tahun + " tahun : ");
         System.out.print(hitungLaba(saldoAwal, tahun));
+        sc.close();
     }
 }
